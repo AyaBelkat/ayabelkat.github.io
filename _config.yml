@@ -23,7 +23,7 @@ email: aya.belkat.space@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal portfolio and blog of Aya Belkat, exploring Space Technology, student experience,
   and the intersection of space and culture.
-baseurl: "/Aya-Belkat" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ayabelkat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: aya-belkat
 github_username:  AyaBelkat
