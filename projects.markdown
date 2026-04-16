@@ -6,7 +6,8 @@ permalink: /projects/
 
 ## Trajectory Design and Optimisation of a Flyby Mission to Asteroid 2024 YR4
 
-**MSc Dissertation — University of Surrey | 2024–2025**
+**MSc Dissertation · University of Surrey · 2024–2025**
+
 
 A high-fidelity interplanetary trajectory design and optimisation framework for a flyby mission to Asteroid 2024 YR4, developed in MATLAB. Three mission architectures were explored and compared: a ballistic direct transfer, an Earth gravity assist, and a Venus gravity assist — each incorporating a Deep Space Manoeuvre (DSM) to minimise total propellant requirements.
 
@@ -38,7 +39,7 @@ Full implementation, results, and documentation available on [GitHub](https://gi
 
 ## Hybrid Rocket Engine — Race2Space Competition
 
-**Sensor Integration Lead & Manufacturing Co-Lead | Peryton Space Society, University of Surrey | 2024–2025**
+**Sensor Integration Lead & Manufacturing Co-Lead · Peryton Space Society, University of Surrey · 2024–2025**
 
 Designed, built, and hot-fire tested a paraffin-based hybrid rocket engine as part of the international Race2Space competition. Led sensor selection, integration, and data acquisition system compatibility across a cross-functional team of mechanical and electronics engineers.
 
