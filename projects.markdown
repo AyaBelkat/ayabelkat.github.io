@@ -45,7 +45,7 @@ Designed, built, and hot-fire tested a paraffin-based hybrid rocket engine as pa
 
 The team achieved **5th place out of 12 international teams**, with a successful hot-fire test validating engine performance and structural integrity.
 
-[View team post on LinkedIn](https://www.linkedin.com/in/aya-belkat)
+[View team post on LinkedIn](https://www.linkedin.com/posts/peryton-space_phyre-1-hot-fire-on-june-27th-2025-activity-7350449024086228992-4udp)
 
 ---
 
