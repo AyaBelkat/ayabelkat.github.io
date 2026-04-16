@@ -28,6 +28,11 @@ url: "https://ayabelkat.github.io" # the base hostname & protocol for your site,
 linkedin_username: aya-belkat
 github_username:  AyaBelkat
 
+# Header Pages
+header_pages:
+  - about.markdown
+  - projects.markdown
+  - newsletter.markdown
 # Build settings
 theme: minima
 plugins:
