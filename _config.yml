@@ -39,7 +39,6 @@ header_pages:
   - projects.markdown
   - newsletter.markdown
 
-google_analytics: G-XXXXXXXXXX
 
 # Exclude from processing.
 # The following items will not be processed, by default.
