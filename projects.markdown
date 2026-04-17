@@ -17,7 +17,7 @@ A high-fidelity interplanetary trajectory design and optimisation framework for 
 
 ![Earth-2024YR4 Porkchop Plot](/assets/images/projects/asteroid_porkchop_plot_2031_2032.jpg)
 
-**Optimised Venus flyby trajectory** — achieving a 26.5% ΔV reduction over the ballistic baseline:
+**Optimised Venus flyby trajectory** — achieving a 26.5% ΔV reduction over the Earth gravity assist:
 
 ![MGADSM Venus Flyby Trajectory](/assets/images/projects/MGADSM_venus_traj.png)
 
@@ -27,11 +27,11 @@ A high-fidelity interplanetary trajectory design and optimisation framework for 
 
 **Results summary:**
 
-| Architecture | Departure | Arrival | Total ΔV (km/s) | TOF (days) |
-| :--- | :--- | :--- | :--- | :--- |
-| Ballistic Transfer | 17 Feb 2032 | 17 Nov 2032 | 1.749 | 274 |
-| Earth Gravity Assist + DSM | 14 Oct 2028 | 07 Nov 2032 | 3.807 | 1485 |
-| Venus Gravity Assist + DSM | 27 May 2031 | 13 Oct 2032 | 2.796 | 505 |
+| Architecture | Departure | Arrival | Total ΔV (km/s) | TOF (days) | Arrival conditions |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Ballistic Transfer | 17 Feb 2032 | 17 Nov 2032 | 1.749 | 274 | On the DARK side of the asteroid |
+| Earth Gravity Assist + DSM | 14 Oct 2028 | 07 Nov 2032 | 3.807 | 1485 | On the SUNLIT side of the asteroid |
+| Venus Gravity Assist + DSM | 27 May 2031 | 13 Oct 2032 | 2.796 | 505 | On the SUNLIT side of the asteroid | 
 
 Full implementation, results, and documentation available on [GitHub](https://github.com/AyaBelkat/Trajectory-Design-and-Optimization-for-a-Flyby-Mission-to-Asteroid-2024-YR4).
 
